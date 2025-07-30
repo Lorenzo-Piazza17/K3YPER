@@ -1,0 +1,22 @@
+Copyright (c) 2025 Lorenzo Piazza and Azan Khan
+
+All rights reserved.
+
+1. Granted Rights  
+Users are granted the right to VIEW the source code of this software solely for informational or study purposes.
+
+2. Restrictions  
+- MODIFICATION, copying, distribution, sale, sublicensing, or integration of this software or its source code, in whole or in part, is STRICTLY PROHIBITED.  
+- USE of this software for commercial or public purposes is PROHIBITED without explicit written permission from the authors.  
+- Removal, concealment, or alteration of any copyright or attribution notices is PROHIBITED.
+
+3. Attribution Requirement  
+The authors must always be clearly and visibly credited in any document, content, presentation, or other material referring to this software.
+
+4. No Warranty  
+This software is provided "as is", without any express or implied warranty, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+5. License Revocation  
+Any violation of these terms results in immediate revocation of the license. Upon revocation, the user must cease all use of the software and destroy any copies.
+
+For further information or requests for written permission, please contact: project.license.info@gmail.com
